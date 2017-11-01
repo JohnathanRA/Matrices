@@ -6,6 +6,14 @@ int main(){
   int i, j, t=0;
   for(i=0;i<3;i++){
     for(j=0;j<3;j++){
+      printf("Dame 1 numero para la primer matriz\n");
+      scanf("%d", & M1[i][j]);
+      printf("Dame 1 numero para la segunda matriz\n");
+      scanf("%d", & M1[i][j]);
+    }
+  }
+  for(i=0;i<3;i++){
+    for(j=0;j<3;j++){
       t=M1[i][j]+M2[i][j];
       M3[i][j]=t;
       printf(" %d", M3[i][j]);
