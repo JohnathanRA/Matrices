@@ -30,15 +30,15 @@ int main(){
 				case 0:
 					printf("Dame el primer valor de la fila %d de la primera y segunda matriz:\n", i+1);
 					scanf("%d %d", & M1[i][j], & M2[i][j]);
-          break;
+          				break;
 				case 1:
 					printf("Dame el segundo valor de la fila %d de la primera y segunda matriz:\n", i+1);
 					scanf("%d %d", & M1[i][j], & M2[i][j]);
-          break;
+          				break;
 				case 2:
 					printf("Dame el tercer valor de la fila %d de la primera y segunda matriz:\n", i+1);
 					scanf("%d %d", & M1[i][j], & M2[i][j]);
-          break;
+          				break;
 			}
 		}
 	}
