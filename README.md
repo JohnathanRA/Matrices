@@ -1,4 +1,4 @@
 # Matrices
 Operaciones con matrices.
 Integrantes:
-Yu Jinyu, Ortega Carrasco Alexis, Rodriguez Alvarez Jonathan, Juan José Blazques Reyes.
+Rodriguez Alvarez Jonathan, Yu Jinyu, Ortega Carrasco Alexis, Juan José Blazques Reyes.
